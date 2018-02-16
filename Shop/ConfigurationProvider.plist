@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appId</key>
+	<string>com.sap.cp.training.shop</string>
+	<key>clientId</key>
+	<string>f77f643d-6770-48ed-aaed-a32246b05d6f</string>
+	<key>serverUrl</key>
+	<string>https://hcpms-s0016256222trial.hanatrial.ondemand.com/com.sap.cp.training.shop</string>
+	<key>authUrl</key>
+	<string>https://oauthasservices-s0016256222trial.hanatrial.ondemand.com/oauth2/api/v1/authorize</string>
+	<key>tokenUrl</key>
+	<string>https://oauthasservices-s0016256222trial.hanatrial.ondemand.com/oauth2/api/v1/token</string>
+	<key>redirectUrl</key>
+	<string>https://oauthasservices-s0016256222trial.hanatrial.ondemand.com</string>
+</dict>
+</plist>
